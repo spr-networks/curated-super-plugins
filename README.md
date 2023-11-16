@@ -1,5 +1,5 @@
 # curated-super-plugins
-A list of curated super plugins
+A list of curated [super](http://github.com/spr-networks/super) plugins
 
 #### Ready to Use Plugins 
 * [spr-mitmproxy](https://github.com/spr-networks/spr-mitmproxy)
@@ -9,7 +9,7 @@ A list of curated super plugins
 * [Nexmon -- Packet injection for PIs](https://github.com/spr-networks/spr-nexmon/blob/main/README.md)
 
 
-#### Built-in Standalone Plugins
+#### Standalone Plugins shipped with SPR 
 * [dyndns](https://github.com/spr-networks/super/tree/main/dyndns)
 * [ppp](https://github.com/spr-networks/super/tree/main/ppp)
 * [wifi_uplink](https://github.com/spr-networks/super/tree/main/wifi_uplink)
