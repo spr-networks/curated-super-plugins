@@ -1,4 +1,4 @@
-# curated-super-plugins
+# Plugins for the Secure Programmable Router Project
 A list of curated [super](http://github.com/spr-networks/super) plugins
 
 #### Ready to Use Plugins 
