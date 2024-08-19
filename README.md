@@ -3,9 +3,11 @@ A list of curated [super](http://github.com/spr-networks/super) plugins
 
 #### Ready to Use Plugins 
 * [spr-mitmproxy](https://github.com/spr-networks/spr-mitmproxy)
+* [spr-tailscale](https://github.com/spr-networks/spr-tailscale)
 
 
 #### Proof of Concept Plugins
+* [spr-wireshark](https://github.com/spr-networks/spr-wireshark)
 * [Nexmon -- Packet injection for PIs](https://github.com/spr-networks/spr-nexmon/blob/main/README.md)
 
 
